@@ -2,7 +2,7 @@
 <h1 align="center">Olá! Eu sou o Luan Lopes👋</h1>
 <div>
     <div>
-      <p align="left" text_align="justify">Estudante de Ciência da Computação no IMT-Instituto Mauá de Tecnologia. Atualmente estou no 4° semestre </p>
+      <p align="left" text_align="justify">Estudante de Ciência da Computação no IMT - Instituto Mauá de Tecnologia. Atualmente estou no 4° semestre </p>
       <p align="left" text_align="justify">Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso. </p>
       <p align="left" text_align="justify">Meu objetivo é documentar minha evolução, e contribuir para a comunidade com ideias, códigos e soluções que possam inspirar e ajudar outros estudantes de tecnologia. </p>
     </div>
