@@ -1,10 +1,11 @@
 <!-- SOBRE -->
-<h1 align="center">Olá! Eu sou o Luan Lopes👋</h1>
+<h1 align="center">👋 Olá! Eu sou o Luan Lopes</h1>
 <div>
     <div>
-      <p align="left" text_align="justify">Estudante de Ciência da Computação no IMT - Instituto Mauá de Tecnologia. Atualmente estou no 4° semestre </p>
-      <p align="left" text_align="justify">Aqui no meu GitHub, compartilho projetos, exercícios e tudo o que vou aprendendo ao longo do curso. </p>
-      <p align="left" text_align="justify">Meu objetivo é documentar minha evolução, e contribuir para a comunidade com ideias, códigos e soluções que possam inspirar e ajudar outros estudantes de tecnologia. </p>
+      <p align="left" text_align="justify">Estudante de Ciência da Computação no IMT - Instituto Mauá de Tecnologia, atualmente no 4º semestre. </p>
+      <p align="left" text_align="justify">Sou um desenvolvedor em formação, proativo, dedicado e com rápido aprendizado, sempre em busca de desafios que me permitam aplicar e expandir meu pensamento analítico e habilidades de resolução de problemas. </p>
+      <p align="left" text_align="justify">Aqui no meu GitHub, você encontrará uma documentação da minha evolução em diversas tecnologias e linguagens de programação. Compartilho projetos, exercícios e soluções que refletem minha paixão por construir e inovar. </p>
+      <p align="left" text_align="justify">Meu objetivo é contribuir ativamente para a comunidade, oferecendo ideias, códigos e soluções que possam inspirar e ajudar outros estudantes e profissionais de tecnologia. Sinta-se à vontade para explorar meus repositórios e conectar-se!" </p>
     </div>
 </div>
 
@@ -64,8 +65,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo" />
   <img width="6" />
   <img src="https://skillicons.dev/icons?i=notion" height="50" alt="notion logo" />
-  <img width="6" />
-  <img src="https://skillicons.dev/icons?i=obsidian" height="50" alt="obsidian logo" />
   <img width="6" />
   <img src="https://cdn.simpleicons.org/trello/0052CC" height="50" alt="trello logo" />
 </div>
