@@ -1,5 +1,5 @@
 <!-- SOBRE -->
-<h1 align="center">👋 Olá! Eu sou o Luan Lopes</h1>
+<h1 align="center">👋 Olá! Eu sou Luan Lopes</h1>
 <div>
     <div>
       <p align="left" text_align="justify">Estudante de Ciência da Computação no IMT - Instituto Mauá de Tecnologia, atualmente no 4º semestre. </p>
